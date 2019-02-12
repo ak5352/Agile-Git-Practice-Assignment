@@ -10,4 +10,5 @@ of how users interact with software. This data, rather than the traffic a websit
 see what aspects of the software remain undiscovered and what aspects are the most accessible. We can understand what users want from our software and what makes them want
 to switch to another piece of software. Behavioral analytics, thus, is an essential part in software development, for it brings us software developers closer to the user. 
  
-
+### Addition by Masaki Kagesawa (mk5986)
+Many websites and companies only rely on some basic web analytics such as Google Analytics but that does not caputre the full story. It is interesting to see that behavioral analytics shows the bigger picture and how the users actually interact with the website and whether they find it useful. I will definitely incorporate it to my future products.
