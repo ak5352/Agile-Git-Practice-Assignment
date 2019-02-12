@@ -1,8 +1,6 @@
 # [Using Behavioral Intelligence to Improve UX](https://www.cmswire.com/customer-experience/using-behavioral-intelligence-to-improve-your-sites-user-experience/)
 
-Avantika Khanna
-
-ak5352
+### Avantika Khanna (ak5352)
 
 This article about tracking user navigation on websites was interesting to me because it sheds light on the increasing importance of powerful user interface design.
 It is common knowledge now that having a clean, well-designed website is important to attracting people to that website and even the company that owns the website. Yet
